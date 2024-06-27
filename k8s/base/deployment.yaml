@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: currency-converter
-        image: aoshfan/currencyconverter:2207ad5
+        image: aoshfan/currencyconverter:399384a
         ports:
         - containerPort: 5555
         env:
